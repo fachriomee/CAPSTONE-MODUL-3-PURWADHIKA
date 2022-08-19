@@ -1,4 +1,4 @@
-# Project Introduction
+# Introduction
 <hr>
 Setelah menyelesaikan seluruh materi modul 3, siswa diharapkan sudah memiliki pengetahuan fundamental terkait pemodelan machine learning dan kegunaannya. Untuk dapat
 mengimplementasikan materi yang telah dipelajari, setiap siswa wajib mengerjakan dan menyelesaikan capstone project modul 3.
@@ -9,11 +9,7 @@ Pengerjaan capstone project modul 3 ini akan melatih siswa dalam melakukan anali
 # Saudi Arabia Used Car Prediction Using Gradien Boosting
 
 
-#### By Muhammad fach
+#### By Fuhammad Fachri Fadhilah
 <hr>
 
 ![Header Perumahan California](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/200721092946arabsaudiPPN15revisi.jpg)
-
-
-![cover](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/200721092946arabsaudiPPN15revisi.jpg)
-
