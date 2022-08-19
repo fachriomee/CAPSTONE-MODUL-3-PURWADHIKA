@@ -13,3 +13,23 @@ Pengerjaan capstone project modul 3 ini akan melatih siswa dalam melakukan anali
 <hr>
 
 ![Header Perumahan California](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/200721092946arabsaudiPPN15revisi.jpg)
+
+![1](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/1.jpg)
+
+![2](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/2.jpg)
+
+![3](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/3.jpg)
+
+![4](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/4.jpg)
+
+![5](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/5.jpg)
+
+![6](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/6.jpg)
+
+![7](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/7.jpg)
+
+![8](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/8.jpg)
+
+![9](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/9.jpg)
+
+![10](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/10.jpg)
