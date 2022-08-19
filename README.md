@@ -33,3 +33,24 @@ Pengerjaan capstone project modul 3 ini akan melatih siswa dalam melakukan anali
 ![9](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/9.jpg)
 
 ![10](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/10.jpg)
+
+![11](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/1.jpg)
+
+![12](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/2.jpg)
+
+![13](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/3.jpg)
+
+![14](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/4.jpg)
+
+![15](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/5.jpg)
+
+![16](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/6.jpg)
+
+![17](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/7.jpg)
+
+![18](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/8.jpg)
+
+![19](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/9.jpg)
+
+![20](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/20.jpg)
+
