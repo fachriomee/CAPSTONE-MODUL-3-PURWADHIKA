@@ -12,8 +12,8 @@ Pengerjaan capstone project modul 3 ini akan melatih siswa dalam melakukan anali
 #### By Muhammad fach
 <hr>
 
-![Header Perumahan California](https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/1-Skyline_Street-Scene_CC_RET_conversion1_920.jpg)
+![Header Perumahan California](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/200721092946arabsaudiPPN15revisi.jpg)
 
 
-![cover](https://github.com/mhdalfarisy/California-House-Price-Prediction-Using-Machine-Learning/blob/main/gambar/cover.JPG)
+![cover](https://github.com/fachriomee/CAPSTONE-MODUL-3-PURWADHIKA/blob/main/gambar/200721092946arabsaudiPPN15revisi.jpg)
 
